@@ -74,3 +74,50 @@ footer p {
     opacity: .8;
     padding-top: 2%;
 }
+@media screen and (max-width: 780px) {
+  .head {
+    width: 30%;
+    padding: 0;
+  }
+  .head img {
+    width: 100%;
+    height: auto;
+  }
+  .one-half {
+    width: 45%;
+
+  }
+  .one-half img {
+    width: 90%;
+    height: auto;
+  }
+}
+@media screen and (max-width: 482px) {
+  .head {
+    width: 100%;
+  }
+  .head img {
+    width: 95%;
+    height: auto;
+  }
+  .logo {
+    margin-bottom: -9%;
+  }
+  .space {
+    margin-top: 7%;
+  }
+  .one-half {
+    width: 100%;
+  }
+  .one-half img {
+    width: 95%;
+    height: auto;
+  }
+  h1  {
+    font-size: 175%;
+  }
+
+
+
+
+}
