@@ -56,6 +56,9 @@ h3 {
     padding-right: 4%;
     margin-left: 2%;
 }
+.icons i:hover {
+    color: #26b7b2;
+}
 .color {
     color: black;
     opacity: .5;
